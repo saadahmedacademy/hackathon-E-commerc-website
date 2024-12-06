@@ -28,7 +28,7 @@ export const Navbar = () => {
       </div>
 
       {/* Navbar */}
-      <div className="flex justify-center items-center h-[60px] px-4 md:px-6 py-3 bg-white shadow-md">
+      <div className="flex justify-center items-center h-[60px] px-4 md:px-6 py-3 border bg-white shadow-md">
         <div className="flex container items-center justify-between">
           {/* Logo */}
           <div className="flex items-center">

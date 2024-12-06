@@ -1,0 +1,22 @@
+[
+    {
+        "id":"1",
+        "image":"/bestSellingImages/bestSelling1.svg",
+        "name":"The north coat"
+    },
+    {
+        "id":"2",
+        "image":"/bestSellingImages/bestSelling2.svg",
+        "name":"Gucci duffle bag"
+    },
+    {
+        "id":"3",
+        "image":"/bestSellingImages/bestSelling3.svg",
+        "name":"RGB liquid CPU Cooler"
+    },
+    {
+        "id":"4",
+        "image":"/bestSellingImages/bestSelling4.svg",
+        "name":"Small BookSelf"
+    }
+]
