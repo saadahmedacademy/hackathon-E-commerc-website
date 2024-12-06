@@ -65,13 +65,15 @@ export const FlashSales = () => {
       </div>
 
       {/* Horizontal Scrolling Section */}
-      <div className="container flex justify-start items-center gap-[34px] mx-auto px-4 md:px-8 lg:px-16 overflow-x-auto">
-      {
-        flashSalesjson.map((items) => (
-          <ProductCard1 key={items.id} {...items} />
-        ))
-      }
+      <div className="container mx-auto px-4 md:px-8 lg:px-16">
+        <div className="flex gap-[34px] overflow-x-auto productSlide scrollbar-hide">
+          {flashSalesjson.map((items) => (
+            <ProductCard1 key={items.id} {...items} />
+          ))}
+        </div>
       </div>
+
+      {/* View All Section */}
       <div className="flex justify-center border-b py-10">
         <button className="mx-auto px-4 py-2 text-center bg-[#DB4444] text-white">
           View All Product

@@ -5,7 +5,7 @@ import { IoEyeOutline } from "react-icons/io5";
 import bestSellingjson from "@/jsondata/bestSelling.json";
 import { ProductCard1 } from "./ProductCard1 ";
 
-export const BestSelling = () => {
+export const OurProducts = () => {
   return (
     <>
       <div className="container py-12 mx-auto border-b px-4 md:px-8 lg:px-16 flex flex-col items-start">

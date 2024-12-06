@@ -34,7 +34,7 @@ export const BrowsCategory = () => {
       </div>
 
       {/* Categories Section */}
-      <div className="container h-[180px] border-b mx-auto px-4 md:px-8 lg:px-16 mt-6 flex items-center justify-start gap-5 overflow-x-auto">
+      <div className="container h-[180px] border-b mx-auto px-4 md:px-8 lg:px-16 mt-6 flex items-center justify-start gap-5 overflow-x-auto productSlide">
       {
         browsJson.map((items) => (
           <div
