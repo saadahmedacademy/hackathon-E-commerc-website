@@ -1,0 +1,50 @@
+   [
+    {
+        "id":"1",
+        "name":"Breed Dry Dog Food",
+        "image":"/ourProducts/product1.svg",
+        "discount":"40%"
+    },
+    {
+        "id":"2",
+        "name":"CANON EOS DSLR Camera",
+        "image":"/ourProducts/product2.svg",
+        "discount":"20%"
+    },
+    {
+        "id":"3",
+        "name":"ASUS FHD Gaming Laptop",
+        "image":"/ourProducts/product3.svg",
+        "discount":"18%"
+    },
+    {
+        "id":"4",
+        "name":"Curology Product Set",
+        "image":"/ourProducts/product4.svg",
+        "discount":"10%"
+    },
+    {
+        "id":"5",
+        "name":"Kids Electric Car",
+        "image":"/ourProducts/product5.svg",
+        "discount":"40%"
+    },
+    {
+        "id":"6",
+        "name":"Jr. Zoom Soccer Cleats",
+        "image":"/ourProducts/product6.svg",
+        "discount":"20%"
+    },
+    {
+        "id":"7",
+        "name":"GP11 Shooter USB Gamepad",
+        "image":"/ourProducts/product7.svg",
+        "discount":"18%"
+    },
+    {
+        "id":"8",
+        "name":"Quilted Satin Jacket",
+        "image":"/ourProducts/product8.svg",
+        "discount":"10%"
+    }
+]

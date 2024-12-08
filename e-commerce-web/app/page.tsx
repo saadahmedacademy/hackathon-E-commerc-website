@@ -3,6 +3,7 @@ import { BestSelling } from "@/components/BestSelling";
 import { BrowsCategory } from "@/components/BrowsCatagory";
 import { FlashSales } from "@/components/FlashSales";
 import { HomeDesign } from "@/components/HomeDesign";
+import { OurProducts } from "@/components/OurProducts";
 import Image from "next/image";
 import { useState } from "react";
 
@@ -81,6 +82,8 @@ export default function Home() {
           </div>
         </div>
       </div>
+
+      <OurProducts />
     </>
   );
 }
